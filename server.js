@@ -152,7 +152,7 @@ const states = {
                 'Capital': 'Frankfort', 
                 'Abbreviation': 'KY',
                 'Region': 'South',
-                 ' image':'https://www.cds.udel.edu/wp-content/uploads/2018/07/kentucky-flag.jpg'
+                 ' image':'https://s3.amazonaws.com/images.wpr.com/state-flags/normal/ky.png'
                 },
     
 'louisiana': {
