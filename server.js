@@ -101,7 +101,7 @@ const states = {
             'Capital': 'Atlanta', 
             'Abbreviation': 'GA',
             'Region': 'South',
-            'Flag':'https://cdn.britannica.com/89/889-004-15A4359F/flag-state-battle-Georgia-field-Georgias-History-2003.jpg'
+            'image':'https://cdn.britannica.com/89/889-004-15A4359F/flag-state-battle-Georgia-field-Georgias-History-2003.jpg'
             },
         
 'hawaii': {
@@ -223,7 +223,7 @@ const states = {
                     'Capital': 'Lincoln', 
                     'Abbreviation': 'NE',
                     'Region': 'MidWest',
-                    'Flag':'https://cdn.britannica.com/48/2948-050-023A51DB/state-banner-Nebraska-flag-flags-seal-design-1963.jpg'
+                    'image':'https://cdn.britannica.com/48/2948-050-023A51DB/state-banner-Nebraska-flag-flags-seal-design-1963.jpg'
                     },
     
 'nevada': {
@@ -332,7 +332,7 @@ const states = {
                     'Capital': 'Austin', 
                     'Abbreviation': 'TX',
                     'Region': 'South',
-                    'Flag':'https://cdn.britannica.com/51/4651-004-B1024BD2/flags-Texas-independence-motif-flag-Mexico-star-1845.jpg'
+                    'image':'https://cdn.britannica.com/51/4651-004-B1024BD2/flags-Texas-independence-motif-flag-Mexico-star-1845.jpg'
                     },
     
     
@@ -357,7 +357,7 @@ const states = {
                     'Capital': 'Richmond', 
                     'Abbreviation': 'VA',
                     'Region': 'South',
-                     'Flag':'https://cdn.britannica.com/40/4940-004-63FAF073/Flag-Virginia.jpg'
+                     'image':'https://cdn.britannica.com/40/4940-004-63FAF073/Flag-Virginia.jpg'
                     },
     
     
