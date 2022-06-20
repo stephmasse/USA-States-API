@@ -101,7 +101,7 @@ const states = {
             'Capital': 'Atlanta', 
             'Abbreviation': 'GA',
             'Region': 'South',
-            'image':'https://cdn.britannica.com/89/889-004-15A4359F/flag-state-battle-Georgia-field-Georgias-History-2003.jpg'
+            'image':'https://www.usabluebook.com/images/product/large/273909.jpg'
             },
         
 'hawaii': {
@@ -152,7 +152,7 @@ const states = {
                 'Capital': 'Frankfort', 
                 'Abbreviation': 'KY',
                 'Region': 'South',
-                 ' image':'https://cdn.britannica.com/01/1901-004-C58FADCA/great-seal-flags-state-Kentucky-design-government-1962.jpg'
+                 ' image':'https://www.cds.udel.edu/wp-content/uploads/2018/07/kentucky-flag.jpg'
                 },
     
 'louisiana': {
@@ -223,7 +223,7 @@ const states = {
                     'Capital': 'Lincoln', 
                     'Abbreviation': 'NE',
                     'Region': 'MidWest',
-                    'image':'https://cdn.britannica.com/48/2948-050-023A51DB/state-banner-Nebraska-flag-flags-seal-design-1963.jpg'
+                    'image':'https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/842942-nebraska-state-flag-encyclopaedia-britannica-uig.jpg'
                     },
     
 'nevada': {
@@ -332,7 +332,7 @@ const states = {
                     'Capital': 'Austin', 
                     'Abbreviation': 'TX',
                     'Region': 'South',
-                    'image':'https://cdn.britannica.com/51/4651-004-B1024BD2/flags-Texas-independence-motif-flag-Mexico-star-1845.jpg'
+                    'image':'https://cdn.britannica.com/51/4651-050-4F35C6CB.jpg'
                     },
     
     
@@ -357,7 +357,7 @@ const states = {
                     'Capital': 'Richmond', 
                     'Abbreviation': 'VA',
                     'Region': 'South',
-                     'image':'https://cdn.britannica.com/40/4940-004-63FAF073/Flag-Virginia.jpg'
+                     'image':'https://cdn.britannica.com/40/4940-050-4FE93AA0/Flag-Virginia.jpg'
                     },
     
     
