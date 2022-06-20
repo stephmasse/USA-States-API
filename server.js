@@ -152,7 +152,7 @@ const states = {
                 'Capital': 'Frankfort', 
                 'Abbreviation': 'KY',
                 'Region': 'South',
-                 ' image':'https://s3.amazonaws.com/images.wpr.com/state-flags/normal/ky.png'
+                 ' image':'https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/kentucky-state-flag-american-school.jpg'
                 },
     
 'louisiana': {
